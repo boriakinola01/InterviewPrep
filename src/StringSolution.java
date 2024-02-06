@@ -132,7 +132,6 @@ public class StringSolution {
     }
 
     public static void main(String[] args) {
-        String[] strs = {"flower","flow","flight"};
         List<String> list = new ArrayList<>();
         list.add("abc");
         list.add("hjk");
